@@ -1,0 +1,1001 @@
+Student_Id,First_Name,Last_Name,Age,Gender,Address,Phone_No,Merit,Department,Fees
+3453,naren,keethan,19,m,"7,amman rd valvettithurai",778456000,yes,computer science,16000
+3454,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778457000,yes,EEE,10000
+3455,faheed,seth nisar,23,m,lakehouse rd trinco,778458000,yes,ECE,10000
+3456,kajan,srikanth,19,m,77 stanley road jaffna,778459000,no ,CSE,18000
+3457,thuvaraka,ragunathan,21,f,irupalai south jaffna,778460000,no,MEC,15000
+3458,vinosha,thiyagarajan,21,f,87 kantharmadam jaffna,778461000,no ,bio_tech,19000
+3459,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778462000,yes,computer science,23000
+3460,vishaka,ranjith,21,f,"45, sivan kovilady thirunelvely jaffna",778463000,yes,EEE,19000
+3461,ilakiya,maraivanan,22,f,"richard lane,mannar",778464000,yes,MEC,18000
+3462,magesh,rohana,22,m,"56,station garden lane colombo",778465000,yes ,ECE,21000
+3463,kethees,ilayakumar,22,m,"87,valarmathyu rd,sankanai",778466000,yes,EEE,22000
+3464,vishnuka,anuraj,19,f,"99,kovil rd nallur",778467000,yes,bio_tech,24000
+3465,kavin,jayasekaran,21,m,kilinochi,778468000,yes,bio_tech,19000
+3466,naren,keethan,19,m,"7,amman rd valvettithurai",778469000,yes,bio_tech,20000
+3467,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778470000,no ,ECE,180000
+3468,faheed,seth nisar,23,m,lakehouse rd trinco,778471000,no,EEE,10000
+3469,kajan,srikanth,19,m,77 stanley road jaffna,778472000,no,ECE,16000
+3470,thuvaraka,ragunathan,21,f,irupalai south jaffna,778473000,no,MEC,18000
+3471,vinosha,thiyagarajan,21,f,87 kantharmadam jaffna,778474000,no ,bio_tech,20000
+3472,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778475000,yes,computer science,16000
+3473,vishaka,ranjith,21,f,"45, sivan kovilady thirunelvely jaffna",778476000,yes,EEE,10000
+3474,ilakiya,maraivanan,22,f,"richard lane,mannar",778477000,yes,ECE,10000
+3475,magesh,rohana,22,m,"56,station garden lane colombo",778478000,no ,CSE,18000
+3476,kethees,ilayakumar,21,m,"87,valarmathyu rd,sankanai",778479000,no,MEC,15000
+3477,vishnuka,anuraj,19,f,"99,kovil rd nallur",778480000,no ,bio_tech,19000
+3478,naren,keethan,19,m,"7,amman rd valvettithurai",778481000,yes,computer science,23000
+3479,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778482000,yes,EEE,19000
+3480,faheed,seth nisar,23,m,lakehouse rd trinco,778483000,yes,MEC,18000
+3481,kajan,srikanth,19,m,77 stanley road jaffna,778484000,yes ,ECE,21000
+3482,thuvaraka,ragunathan,21,f,irupalai south jaffna,778485000,yes,EEE,22000
+3483,vinosha,thiyagarajan,21,f,87 kantharmadam jaffna,778486000,yes,bio_tech,24000
+3484,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778487000,yes,bio_tech,19000
+3485,vishaka,ranjith,21,f,"45, sivan kovilady thirunelvely jaffna",778488000,yes,bio_tech,20000
+3486,ilakiya,maraivanan,22,f,"richard lane,mannar",778489000,no ,ECE,180000
+3487,magesh,rohana,22,m,"56,station garden lane colombo",778490000,no,EEE,10000
+3488,kethees,ilayakumar,21,m,"87,valarmathyu rd,sankanai",778491000,no,ECE,16000
+3489,vishnuka,anuraj,19,f,"99,kovil rd nallur",778492000,no,MEC,18000
+3490,aaraphy,thiyagarajan,19,f,colombo west,778493000,no ,bio_tech,20000
+3491,naren,keethan,19,m,"7,amman rd valvettithurai",778494000,yes,computer science,16000
+3492,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778495000,yes,EEE,10000
+3493,faheed,seth nisar,23,m,lakehouse rd trinco,778496000,yes,ECE,10000
+3494,kajan,srikanth,19,m,77 stanley road jaffna,778497000,no ,CSE,18000
+3495,thuvaraka,ragunathan,21,f,irupalai south jaffna,778498000,no,MEC,15000
+3496,vinosha,thiyagarajan,21,f,87 kantharmadam jaffna,778499000,no ,bio_tech,19000
+3497,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778500000,yes,computer science,23000
+3498,vishaka,ranjith,21,f,"45, sivan kovilady thirunelvely jaffna",778501000,yes,EEE,19000
+3499,ilakiya,maraivanan,22,f,"richard lane,mannar",778502000,yes,MEC,18000
+3500,magesh,rohana,22,m,"56,station garden lane colombo",778503000,yes ,ECE,21000
+3501,kethees,ilayakumar,19,m,"87,valarmathyu rd,sankanai",778504000,yes,EEE,22000
+3502,vishnuka,anuraj,19,f,"99,kovil rd nallur",778505000,yes,bio_tech,24000
+3503,naren,keethan,19,m,"7,amman rd valvettithurai",778506000,yes,bio_tech,19000
+3504,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778507000,yes,bio_tech,20000
+3505,faheed,seth nisar,23,m,lakehouse rd trinco,778508000,no ,ECE,180000
+3506,kajan,srikanth,19,m,77 stanley road jaffna,778509000,no,EEE,10000
+3507,thuvaraka,ragunathan,21,f,irupalai south jaffna,778510000,no,ECE,16000
+3508,vinosha,thiyagarajan,21,f,87 kantharmadam jaffna,778511000,no,MEC,18000
+3509,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778512000,no ,bio_tech,20000
+3510,vishaka,ranjith,21,f,"45, sivan kovilady thirunelvely jaffna",778513000,yes,computer science,16000
+3511,ilakiya,maraivanan,22,f,"richard lane,mannar",778514000,yes,EEE,10000
+3512,magesh,rohana,22,m,"56,station garden lane colombo",778515000,yes,ECE,10000
+3513,kethees,ilayakumar,23,m,"87,valarmathyu rd,sankanai",778516000,no ,CSE,18000
+3514,vishnuka,anuraj,19,f,"99,kovil rd nallur",778517000,no,MEC,15000
+3515,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778518000,no ,bio_tech,19000
+3516,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778519000,yes,computer science,23000
+3517,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778520000,yes,EEE,19000
+3518,nesan,kumaravel,19,m,"34,kopay south kopay",778521000,yes,MEC,18000
+3519,daniel,george,20,m,urelu west,778522000,yes ,ECE,21000
+3520,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778523000,yes,EEE,22000
+3521,nesan,kumaravel,19,m,"34,kopay south kopay",778524000,yes,bio_tech,24000
+3522,daniel,george,20,m,urelu west,778525000,yes,bio_tech,19000
+3523,nesan,kumaravel,19,m,"34,kopay south kopay",778526000,yes,bio_tech,20000
+3524,daniel,george,20,m,urelu west,778527000,no ,ECE,180000
+3525,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778528000,no,EEE,10000
+3526,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778529000,no,ECE,16000
+3527,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778530000,no,MEC,18000
+3528,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778531000,no ,bio_tech,20000
+3529,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778532000,yes,computer science,16000
+3530,naren,keethan,19,m,"7,amman rd valvettithurai",778533000,yes,EEE,10000
+3531,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778534000,yes,ECE,10000
+3532,ocenie,bandara,23,f,"garden lane, wallawatte north",778535000,no ,CSE,18000
+3533,roy,antony,23,m,"87, martin road colombo",778536000,no,MEC,15000
+3534,nisha,thevathasan,20,f,"5,factory rd hatton",778537000,no ,bio_tech,19000
+3535,fatima,mohamad,19,f,"7,guest house road hattan",778538000,yes,computer science,23000
+3536,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778539000,yes,EEE,19000
+3537,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778540000,yes,MEC,18000
+3538,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778541000,yes ,ECE,21000
+3539,jananika,sivakuma,23,f,"87, martin road colombo",778542000,yes,EEE,22000
+3540,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778543000,yes,bio_tech,24000
+3541,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778544000,yes,bio_tech,19000
+3542,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778545000,yes,bio_tech,20000
+3543,naren,keethan,19,m,"7,amman rd valvettithurai",778546000,no ,ECE,180000
+3544,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778547000,no,EEE,10000
+3545,ocenie,bandara,23,f,"garden lane, wallawatte north",778548000,no,ECE,16000
+3546,roy,antony,23,m,"87, martin road colombo",778549000,no,MEC,18000
+3547,nisha,thevathasan,20,f,"5,factory rd hatton",778550000,no ,bio_tech,20000
+3548,fatima,mohamad,19,f,"7,guest house road hattan",778551000,yes,computer science,16000
+3549,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778552000,yes,EEE,10000
+3550,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778553000,yes,ECE,10000
+3551,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778554000,no ,CSE,18000
+3552,jananika,sivakuma,23,f,"87, martin road colombo",778555000,no,MEC,15000
+3553,nesan,kumaravel,19,m,"34,kopay south kopay",778556000,no ,bio_tech,19000
+3554,daniel,george,20,m,urelu west,778557000,yes,computer science,23000
+3555,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778558000,yes,EEE,19000
+3556,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778559000,yes,MEC,18000
+3557,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778560000,yes ,ECE,21000
+3558,naren,keethan,19,m,"7,amman rd valvettithurai",778561000,yes,EEE,22000
+3559,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778562000,yes,bio_tech,24000
+3560,ocenie,bandara,23,f,"garden lane, wallawatte north",778563000,yes,bio_tech,19000
+3561,roy,antony,23,m,"87, martin road colombo",778564000,yes,bio_tech,20000
+3562,nisha,thevathasan,20,f,"5,factory rd hatton",778565000,no ,ECE,180000
+3563,fatima,mohamad,19,f,"7,guest house road hattan",778566000,no,EEE,10000
+3564,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778567000,no,ECE,16000
+3565,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778568000,no,MEC,18000
+3566,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778569000,no ,bio_tech,20000
+3567,jananika,sivakuma,23,f,"87, martin road colombo",778570000,yes,computer science,16000
+3568,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778571000,yes,EEE,10000
+3569,nesan,kumaravel,19,m,"34,kopay south kopay",778572000,yes,ECE,10000
+3570,daniel,george,20,m,urelu west,778573000,no ,CSE,18000
+3571,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778574000,no,MEC,15000
+3572,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778575000,no ,bio_tech,19000
+3573,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778576000,yes,computer science,23000
+3574,naren,keethan,19,m,"7,amman rd valvettithurai",778577000,yes,EEE,19000
+3575,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778578000,yes,MEC,18000
+3576,ocenie,bandara,23,f,"garden lane, wallawatte north",778579000,yes ,ECE,21000
+3577,roy,antony,23,m,"87, martin road colombo",778580000,yes,EEE,22000
+3578,nisha,thevathasan,20,f,"5,factory rd hatton",778581000,yes,bio_tech,24000
+3579,fatima,mohamad,19,f,"7,guest house road hattan",778582000,yes,bio_tech,19000
+3580,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778583000,yes,bio_tech,20000
+3581,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778584000,no ,ECE,180000
+3582,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778585000,no,EEE,10000
+3583,jananika,sivakuma,23,f,"87, martin road colombo",778586000,no,ECE,16000
+3584,nesan,kumaravel,19,m,"34,kopay south kopay",778587000,no,MEC,18000
+3585,daniel,george,20,m,urelu west,778588000,no ,bio_tech,20000
+3586,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778589000,yes,computer science,16000
+3587,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778590000,yes,EEE,10000
+3588,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778591000,yes,ECE,10000
+3589,naren,keethan,19,m,"7,amman rd valvettithurai",778592000,no ,CSE,18000
+3590,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778593000,no,MEC,15000
+3591,ocenie,bandara,23,f,"garden lane, wallawatte north",778594000,no ,bio_tech,19000
+3592,roy,antony,23,m,"87, martin road colombo",778595000,yes,computer science,23000
+3593,nisha,thevathasan,20,f,"5,factory rd hatton",778596000,yes,EEE,19000
+3594,fatima,mohamad,19,f,"7,guest house road hattan",778597000,yes,MEC,18000
+3595,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778598000,yes ,ECE,21000
+3596,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778599000,yes,EEE,22000
+3597,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778600000,yes,bio_tech,24000
+3598,jananika,sivakuma,23,f,"87, martin road colombo",778601000,yes,bio_tech,19000
+3599,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778602000,yes,bio_tech,20000
+3600,nesan,kumaravel,19,m,"34,kopay south kopay",778603000,no ,ECE,180000
+3601,daniel,george,20,m,urelu west,778604000,no,EEE,10000
+3602,nesan,kumaravel,19,m,"34,kopay south kopay",778605000,no,ECE,16000
+3603,daniel,george,20,m,urelu west,778606000,no,MEC,18000
+3604,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778607000,no ,bio_tech,20000
+3605,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778608000,yes,computer science,16000
+3606,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778609000,yes,EEE,10000
+3607,naren,keethan,19,m,"7,amman rd valvettithurai",778610000,yes,ECE,10000
+3608,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778611000,no ,CSE,18000
+3609,ocenie,bandara,23,f,"garden lane, wallawatte north",778612000,no,MEC,15000
+3610,roy,antony,23,m,"87, martin road colombo",778613000,no ,bio_tech,19000
+3611,nisha,thevathasan,20,f,"5,factory rd hatton",778614000,yes,computer science,23000
+3612,fatima,mohamad,19,f,"7,guest house road hattan",778615000,yes,EEE,19000
+3613,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778616000,yes,MEC,18000
+3614,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778617000,yes ,ECE,21000
+3615,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778618000,yes,EEE,22000
+3616,jananika,sivakuma,23,f,"87, martin road colombo",778619000,yes,bio_tech,24000
+3617,naren,keethan,19,m,"7,amman rd valvettithurai",778620000,yes,bio_tech,19000
+3618,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778621000,yes,bio_tech,20000
+3619,faheed,seth nisar,23,m,lakehouse rd trinco,778622000,no ,ECE,180000
+3620,kajan,srikanth,19,m,77 stanley road jaffna,778623000,no,EEE,10000
+3621,thuvaraka,ragunathan,21,f,irupalai south jaffna,778624000,no,ECE,16000
+3622,vinosha,thiyagarajan,21,f,87 kantharmadam jaffna,778625000,no,MEC,18000
+3623,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778626000,no ,bio_tech,20000
+3624,vishaka,ranjith,21,f,"45, sivan kovilady thirunelvely jaffna",778627000,yes,computer science,16000
+3625,ilakiya,maraivanan,22,f,"richard lane,mannar",778628000,yes,EEE,10000
+3626,magesh,rohana,22,m,"56,station garden lane colombo",778629000,yes,ECE,10000
+3627,kethees,ilayakumar,21,m,"87,valarmathyu rd,sankanai",778630000,no ,CSE,18000
+3628,vishnuka,anuraj,19,f,"99,kovil rd nallur",778631000,no,MEC,15000
+3629,tharani,vanan,20,f,"56 palaly road,jaffna",778632000,no ,bio_tech,19000
+3630,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778633000,yes,computer science,23000
+3631,suresh,jeyabalan,19,m,matha kovil puthoor,778634000,yes,EEE,19000
+3632,jananika,sivakuma,23,f,"87, martin road colombo",778635000,yes,MEC,18000
+3633,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778636000,yes ,ECE,21000
+3634,roy,antony,23,m,"87, martin road colombo",778637000,yes,EEE,22000
+3635,nisha,thevathasan,20,f,"5,factory rd hatton",778638000,yes,bio_tech,24000
+3636,kethees,ilayakumar,20,m,"87,valarmathyu rd,sankanai",778639000,yes,bio_tech,19000
+3637,vishnuka,anuraj,19,f,"99,kovil rd nallur",778640000,yes,bio_tech,20000
+3638,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778641000,no ,ECE,180000
+3639,naren,keethan,19,m,"7,amman rd valvettithurai",778642000,no,EEE,10000
+3640,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778643000,no,ECE,16000
+3641,sofia,lued,20,f,museum road nallur jaffna,778644000,no,MEC,18000
+3642,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778645000,no ,bio_tech,20000
+3643,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778646000,yes,computer science,16000
+3644,tharani,vanan,20,f,"56 palaly road,jaffna",778647000,yes,EEE,10000
+3645,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778648000,yes,ECE,10000
+3646,suresh,jeyabalan,19,m,matha kovil puthoor,778649000,no ,CSE,18000
+3647,jananika,sivakuma,23,f,"87, martin road colombo",778650000,no,MEC,15000
+3648,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778651000,no ,bio_tech,19000
+3649,roy,antony,23,m,"87, martin road colombo",778652000,yes,computer science,23000
+3650,nisha,thevathasan,20,f,"5,factory rd hatton",778653000,yes,EEE,19000
+3651,kethees,ilayakumar,21,m,"87,valarmathyu rd,sankanai",778654000,yes,MEC,18000
+3652,vishnuka,anuraj,19,f,"99,kovil rd nallur",778655000,yes ,ECE,21000
+3653,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778656000,yes,EEE,22000
+3654,naren,keethan,19,m,"7,amman rd valvettithurai",778657000,yes,bio_tech,24000
+3655,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778658000,yes,bio_tech,19000
+3656,sofia,lued,20,f,museum road nallur jaffna,778659000,yes,bio_tech,20000
+3657,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778660000,no ,ECE,180000
+3658,nesan,kumaravel,19,m,"34,kopay south kopay",778661000,no,EEE,10000
+3659,daniel,george,20,m,urelu west,778662000,no,ECE,16000
+3660,nesan,kumaravel,19,m,"34,kopay south kopay",778663000,no,MEC,18000
+3661,daniel,george,20,m,urelu west,778664000,no ,bio_tech,20000
+3662,shruthy,arulnesan,23,f,pointpedro rd jaffna,778665000,yes,computer science,16000
+3663,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778666000,yes,EEE,10000
+3664,iniyan,saravanan,20,m,45 kks rd jaffna,778667000,yes,ECE,10000
+3665,nesan,kumaravel,19,m,"34,kopay south kopay",778668000,no ,CSE,18000
+3666,daniel,george,20,m,urelu west,778669000,no,MEC,15000
+3667,shruthy,arulnesan,23,f,pointpedro rd jaffna,778670000,no ,bio_tech,19000
+3668,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778671000,yes,computer science,23000
+3669,iniyan,saravanan,20,m,45 kks rd jaffna,778672000,yes,EEE,19000
+3670,nesan,kumaravel,19,m,"34,kopay south kopay",778673000,yes,MEC,18000
+3671,daniel,george,20,m,urelu west,778674000,yes ,ECE,21000
+3672,shruthy,arulnesan,23,f,pointpedro rd jaffna,778675000,yes,EEE,22000
+3673,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778676000,yes,bio_tech,24000
+3674,iniyan,saravanan,20,m,45 kks rd jaffna,778677000,yes,bio_tech,19000
+3675,raji,parameswaran,22,f,vembadi rd jaffna,778678000,yes,bio_tech,20000
+3676,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778679000,no ,ECE,180000
+3677,tharani,vanan,20,f,"56 palaly road,jaffna",778680000,no,EEE,10000
+3678,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778681000,no,ECE,16000
+3679,suresh,jeyabalan,19,m,matha kovil puthoor,778682000,no,MEC,18000
+3680,jananika,sivakuma,23,f,"87, martin road colombo",778683000,no ,bio_tech,20000
+3681,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778684000,yes,computer science,16000
+3682,roy,antony,23,m,"87, martin road colombo",778685000,yes,EEE,10000
+3683,nisha,thevathasan,20,f,"5,factory rd hatton",778686000,yes,ECE,10000
+3684,kethees,ilayakumar,0,m,"87,valarmathyu rd,sankanai",778687000,no ,CSE,18000
+3685,vishnuka,anuraj,19,f,"99,kovil rd nallur",778688000,no,MEC,15000
+3686,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778689000,no ,bio_tech,19000
+3687,naren,keethan,19,m,"7,amman rd valvettithurai",778690000,yes,computer science,23000
+3688,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778691000,yes,EEE,19000
+3689,sofia,lued,20,f,museum road nallur jaffna,778692000,yes,MEC,18000
+3690,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778693000,yes ,ECE,21000
+3691,nesan,kumaravel,19,m,"34,kopay south kopay",778694000,yes,EEE,22000
+3692,daniel,george,20,m,urelu west,778695000,yes,bio_tech,24000
+3693,nesan,kumaravel,19,m,"34,kopay south kopay",778696000,yes,bio_tech,19000
+3694,daniel,george,20,m,urelu west,778697000,yes,bio_tech,20000
+3695,shruthy,arulnesan,23,f,pointpedro rd jaffna,778698000,no ,ECE,180000
+3696,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778699000,no,EEE,10000
+3697,iniyan,saravanan,20,m,45 kks rd jaffna,778700000,no,ECE,16000
+3698,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778701000,no,MEC,18000
+3699,nesan,kumaravel,19,m,"34,kopay south kopay",778702000,no ,bio_tech,20000
+3700,daniel,george,20,m,urelu west,778703000,yes,computer science,16000
+3701,neeraja,kathiravetpillai,21,f,hospitol rd jaffna,778704000,yes,EEE,10000
+3702,nesan,kumaravel,19,m,"34,kopay south kopay",778705000,yes,ECE,10000
+3703,daniel,george,20,m,urelu west,778706000,no ,CSE,18000
+3704,shruthy,arulnesan,23,f,pointpedro rd jaffna,778707000,no,MEC,15000
+3705,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778708000,no ,bio_tech,19000
+3706,iniyan,saravanan,20,m,45 kks rd jaffna,778709000,yes,computer science,23000
+3707,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778710000,yes,EEE,19000
+3708,nesan,kumaravel,19,m,"34,kopay south kopay",778711000,yes,MEC,18000
+3709,daniel,george,20,m,urelu west,778712000,yes ,ECE,21000
+3710,suwastika ,raman,20,f,vidans lane jaffna,778713000,yes,EEE,22000
+3711,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778714000,yes,bio_tech,24000
+3712,tharani,vanan,20,f,"56 palaly road,jaffna",778715000,yes,bio_tech,19000
+3713,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778716000,yes,bio_tech,20000
+3714,suresh,jeyabalan,19,m,matha kovil puthoor,778717000,no ,ECE,180000
+3715,jananika,sivakuma,23,f,"87, martin road colombo",778718000,no,EEE,10000
+3716,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778719000,no,ECE,16000
+3717,roy,antony,23,m,"87, martin road colombo",778720000,no,MEC,18000
+3718,nisha,thevathasan,20,f,"5,factory rd hatton",778721000,no ,bio_tech,20000
+3719,kethees,ilayakumar,0,m,"87,valarmathyu rd,sankanai",778722000,yes,computer science,16000
+3720,vishnuka,anuraj,19,f,"99,kovil rd nallur",778723000,yes,EEE,10000
+3721,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778724000,yes,ECE,10000
+3722,naren,keethan,19,m,"7,amman rd valvettithurai",778725000,no ,CSE,18000
+3723,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778726000,no,MEC,15000
+3724,sofia,lued,20,f,museum road nallur jaffna,778727000,no ,bio_tech,19000
+3725,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778728000,yes,computer science,23000
+3726,tharani,vanan,20,f,"56 palaly road,jaffna",778729000,yes,EEE,19000
+3727,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778730000,yes,MEC,18000
+3728,suresh,jeyabalan,19,m,matha kovil puthoor,778731000,yes ,ECE,21000
+3729,tharani,vanan,20,f,"56 palaly road,jaffna",778732000,yes,EEE,22000
+3730,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778733000,yes,bio_tech,24000
+3731,suresh,jeyabalan,19,m,matha kovil puthoor,778734000,yes,bio_tech,19000
+3732,tharani,vanan,20,f,"56 palaly road,jaffna",778735000,yes,bio_tech,20000
+3733,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778736000,no ,ECE,180000
+3734,suresh,jeyabalan,19,m,matha kovil puthoor,778737000,no,EEE,10000
+3735,nesan,kumaravel,19,m,"34,kopay south kopay",778738000,no,ECE,16000
+3736,daniel,george,20,m,urelu west,778739000,no,MEC,18000
+3737,shruthy,arulnesan,23,f,pointpedro rd jaffna,778740000,no ,bio_tech,20000
+3738,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778741000,yes,computer science,16000
+3739,iniyan,saravanan,20,m,45 kks rd jaffna,778742000,yes,EEE,10000
+3740,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778743000,yes,ECE,10000
+3741,tharani,vanan,20,f,"56 palaly road,jaffna",778744000,no ,CSE,18000
+3742,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778745000,no,MEC,15000
+3743,suresh,jeyabalan,19,m,matha kovil puthoor,778746000,no ,bio_tech,19000
+3744,jananika,sivakuma,23,f,"87, martin road colombo",778747000,yes,computer science,23000
+3745,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778748000,yes,EEE,19000
+3746,roy,antony,23,m,"87, martin road colombo",778749000,yes,MEC,18000
+3747,nisha,thevathasan,20,f,"5,factory rd hatton",778750000,yes ,ECE,21000
+3748,kethees,ilayakumar,20,m,"87,valarmathyu rd,sankanai",778751000,yes,EEE,22000
+3749,vishnuka,anuraj,19,f,"99,kovil rd nallur",778752000,yes,bio_tech,24000
+3750,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778753000,yes,bio_tech,19000
+3751,naren,keethan,19,m,"7,amman rd valvettithurai",778754000,yes,bio_tech,20000
+3752,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778755000,no ,ECE,180000
+3753,sofia,lued,20,f,museum road nallur jaffna,778756000,no,EEE,10000
+3754,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778757000,no,ECE,16000
+3755,sofia,lued,20,f,museum road nallur jaffna,778758000,no,MEC,18000
+3756,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778759000,no ,bio_tech,20000
+3757,nesan,kumaravel,19,m,"34,kopay south kopay",778760000,yes,computer science,16000
+3758,daniel,george,20,m,urelu west,778761000,yes,EEE,10000
+3759,shruthy,arulnesan,23,f,pointpedro rd jaffna,778762000,yes,ECE,10000
+3760,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778763000,no ,CSE,18000
+3761,iniyan,saravanan,20,m,45 kks rd jaffna,778764000,no,MEC,15000
+3762,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778765000,no ,bio_tech,19000
+3763,tharani,vanan,20,f,"56 palaly road,jaffna",778766000,yes,computer science,23000
+3764,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778767000,yes,EEE,19000
+3765,suresh,jeyabalan,19,m,matha kovil puthoor,778768000,yes,MEC,18000
+3766,jananika,sivakuma,23,f,"87, martin road colombo",778769000,yes ,ECE,21000
+3767,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778770000,yes,EEE,22000
+3768,roy,antony,23,m,"87, martin road colombo",778771000,yes,bio_tech,24000
+3769,nisha,thevathasan,20,f,"5,factory rd hatton",778772000,yes,bio_tech,19000
+3770,kethees,ilayakumar,22,m,"87,valarmathyu rd,sankanai",778773000,yes,bio_tech,20000
+3771,vishnuka,anuraj,19,f,"99,kovil rd nallur",778774000,no ,ECE,180000
+3772,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778775000,no,EEE,10000
+3773,naren,keethan,19,m,"7,amman rd valvettithurai",778776000,no,ECE,16000
+3774,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778777000,no,MEC,18000
+3775,sofia,lued,20,f,museum road nallur jaffna,778778000,no ,bio_tech,20000
+3776,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778779000,yes,computer science,16000
+3777,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778780000,yes,EEE,10000
+3778,iniyan,saravanan,20,m,45 kks rd jaffna,778781000,yes,ECE,10000
+3779,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778782000,no ,CSE,18000
+3780,tharani,vanan,20,f,"56 palaly road,jaffna",778783000,no,MEC,15000
+3781,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778784000,no ,bio_tech,19000
+3782,suresh,jeyabalan,19,m,matha kovil puthoor,778785000,yes,computer science,23000
+3783,jananika,sivakuma,23,f,"87, martin road colombo",778786000,yes,EEE,19000
+3784,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778787000,yes,MEC,18000
+3785,roy,antony,23,m,"87, martin road colombo",778788000,yes ,ECE,21000
+3786,nisha,thevathasan,20,f,"5,factory rd hatton",778789000,yes,EEE,22000
+3787,kethees,ilayakumar,23,m,"87,valarmathyu rd,sankanai",778790000,yes,bio_tech,24000
+3788,vishnuka,anuraj,19,f,"99,kovil rd nallur",778791000,yes,bio_tech,19000
+3789,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778792000,yes,bio_tech,20000
+3790,naren,keethan,19,m,"7,amman rd valvettithurai",778793000,no ,ECE,180000
+3791,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778794000,no,EEE,10000
+3792,sofia,lued,20,f,museum road nallur jaffna,778795000,no,ECE,16000
+3793,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778796000,no,MEC,18000
+3794,shruthy,arulnesan,23,f,pointpedro rd jaffna,778797000,no ,bio_tech,20000
+3795,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778798000,yes,computer science,16000
+3796,iniyan,saravanan,20,m,45 kks rd jaffna,778799000,yes,EEE,10000
+3797,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778800000,yes,ECE,10000
+3798,nesan,kumaravel,19,m,"34,kopay south kopay",778801000,no ,CSE,18000
+3799,daniel,george,20,m,urelu west,778802000,no,MEC,15000
+3800,dilan,nicklas,22,m,anuradhapura,778803000,no ,bio_tech,19000
+3801,nesan,kumaravel,19,m,"34,kopay south kopay",778804000,yes,computer science,23000
+3802,daniel,george,20,m,urelu west,778805000,yes,EEE,19000
+3803,shruthy,arulnesan,23,f,pointpedro rd jaffna,778806000,yes,MEC,18000
+3804,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778807000,yes ,ECE,21000
+3805,iniyan,saravanan,20,m,45 kks rd jaffna,778808000,yes,EEE,22000
+3806,nesan,kumaravel,19,m,"34,kopay south kopay",778809000,yes,bio_tech,24000
+3807,daniel,george,20,m,urelu west,778810000,yes,bio_tech,19000
+3808,shruthy,arulnesan,23,f,pointpedro rd jaffna,778811000,yes,bio_tech,20000
+3809,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778812000,no ,ECE,180000
+3810,iniyan,saravanan,20,m,45 kks rd jaffna,778813000,no,EEE,10000
+3811,nesan,kumaravel,19,m,"34,kopay south kopay",778814000,no,ECE,16000
+3812,daniel,george,20,m,urelu west,778815000,no,MEC,18000
+3813,shruthy,arulnesan,23,f,pointpedro rd jaffna,778816000,no ,bio_tech,20000
+3814,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778817000,yes,computer science,16000
+3815,iniyan,saravanan,20,m,45 kks rd jaffna,778818000,yes,EEE,10000
+3816,nesan,kumaravel,19,m,"34,kopay south kopay",778819000,yes,ECE,10000
+3817,daniel,george,20,m,urelu west,778820000,no ,CSE,18000
+3818,shruthy,arulnesan,23,f,pointpedro rd jaffna,778821000,no,MEC,15000
+3819,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778822000,no ,bio_tech,19000
+3820,iniyan,saravanan,20,m,45 kks rd jaffna,778823000,yes,computer science,23000
+3821,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778824000,yes,EEE,19000
+3822,tharani,vanan,20,f,"56 palaly road,jaffna",778825000,yes,MEC,18000
+3823,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778826000,yes ,ECE,21000
+3824,suresh,jeyabalan,19,m,matha kovil puthoor,778827000,yes,EEE,22000
+3825,jananika,sivakuma,23,f,"87, martin road colombo",778828000,yes,bio_tech,24000
+3826,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778829000,yes,bio_tech,19000
+3827,roy,antony,23,m,"87, martin road colombo",778830000,yes,bio_tech,20000
+3828,nisha,thevathasan,20,f,"5,factory rd hatton",778831000,no ,ECE,180000
+3829,kethees,ilayakumar,20,m,"87,valarmathyu rd,sankanai",778832000,no,EEE,10000
+3830,vishnuka,anuraj,19,f,"99,kovil rd nallur",778833000,no,ECE,16000
+3831,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778834000,no,MEC,18000
+3832,naren,keethan,19,m,"7,amman rd valvettithurai",778835000,no ,bio_tech,20000
+3833,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778836000,yes,computer science,16000
+3834,sofia,lued,20,f,museum road nallur jaffna,778837000,yes,EEE,10000
+3835,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778838000,yes,ECE,10000
+3836,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778839000,no ,CSE,18000
+3837,tharani,vanan,20,f,"56 palaly road,jaffna",778840000,no,MEC,15000
+3838,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778841000,no ,bio_tech,19000
+3839,suresh,jeyabalan,19,m,matha kovil puthoor,778842000,yes,computer science,23000
+3840,jananika,sivakuma,23,f,"87, martin road colombo",778843000,yes,EEE,19000
+3841,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778844000,yes,MEC,18000
+3842,roy,antony,23,m,"87, martin road colombo",778845000,yes ,ECE,21000
+3843,nisha,thevathasan,20,f,"5,factory rd hatton",778846000,yes,EEE,22000
+3844,kethees,ilayakumar,20,m,"87,valarmathyu rd,sankanai",778847000,yes,bio_tech,24000
+3845,vishnuka,anuraj,19,f,"99,kovil rd nallur",778848000,yes,bio_tech,19000
+3846,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778849000,yes,bio_tech,20000
+3847,naren,keethan,19,m,"7,amman rd valvettithurai",778850000,no ,ECE,180000
+3848,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778851000,no,EEE,10000
+3849,sofia,lued,20,f,museum road nallur jaffna,778852000,no,ECE,16000
+3850,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778853000,no,MEC,18000
+3851,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778854000,no ,bio_tech,20000
+3852,nesan,kumaravel,19,m,"34,kopay south kopay",778855000,yes,computer science,16000
+3853,daniel,george,20,m,urelu west,778856000,yes,EEE,10000
+3854,tharani,vanan,20,f,"56 palaly road,jaffna",778857000,yes,ECE,10000
+3855,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778858000,no ,CSE,18000
+3856,suresh,jeyabalan,19,m,matha kovil puthoor,778859000,no,MEC,15000
+3857,tharani,vanan,20,f,"56 palaly road,jaffna",778860000,no ,bio_tech,19000
+3858,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778861000,yes,computer science,23000
+3859,suresh,jeyabalan,19,m,matha kovil puthoor,778862000,yes,EEE,19000
+3860,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778863000,yes,MEC,18000
+3861,tharani,vanan,20,f,"56 palaly road,jaffna",778864000,yes ,ECE,21000
+3862,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778865000,yes,EEE,22000
+3863,suresh,jeyabalan,19,m,matha kovil puthoor,778866000,yes,bio_tech,24000
+3864,jananika,sivakuma,23,f,"87, martin road colombo",778867000,yes,bio_tech,19000
+3865,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778868000,yes,bio_tech,20000
+3866,roy,antony,23,m,"87, martin road colombo",778869000,no ,ECE,180000
+3867,nisha,thevathasan,20,f,"5,factory rd hatton",778870000,no,EEE,10000
+3868,kethees,ilayakumar,22,m,"87,valarmathyu rd,sankanai",778871000,no,ECE,16000
+3869,vishnuka,anuraj,19,f,"99,kovil rd nallur",778872000,no,MEC,18000
+3870,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778873000,no ,bio_tech,20000
+3871,naren,keethan,19,m,"7,amman rd valvettithurai",778874000,yes,computer science,16000
+3872,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778875000,yes,EEE,10000
+3873,sofia,lued,20,f,museum road nallur jaffna,778876000,yes,ECE,10000
+3874,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778877000,no ,CSE,18000
+3875,tharani,vanan,20,f,"56 palaly road,jaffna",778878000,no,MEC,15000
+3876,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778879000,no ,bio_tech,19000
+3877,suresh,jeyabalan,19,m,matha kovil puthoor,778880000,yes,computer science,23000
+3878,tharani,vanan,20,f,"56 palaly road,jaffna",778881000,yes,EEE,19000
+3879,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778882000,yes,MEC,18000
+3880,suresh,jeyabalan,19,m,matha kovil puthoor,778883000,yes ,ECE,21000
+3881,shiyam,sivakumar,19,m,mathgal jaffna,778884000,yes,EEE,22000
+3882,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778885000,yes,bio_tech,24000
+3883,tharani,vanan,20,f,"56 palaly road,jaffna",778886000,yes,bio_tech,19000
+3884,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778887000,yes,bio_tech,20000
+3885,suresh,jeyabalan,19,m,matha kovil puthoor,778888000,no ,ECE,180000
+3886,jananika,sivakuma,23,f,"87, martin road colombo",778889000,no,EEE,10000
+3887,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778890000,no,ECE,16000
+3888,roy,antony,23,m,"87, martin road colombo",778891000,no,MEC,18000
+3889,nisha,thevathasan,20,f,"5,factory rd hatton",778892000,no ,bio_tech,20000
+3890,kethees,ilayakumar,22,m,"87,valarmathyu rd,sankanai",778893000,yes,computer science,16000
+3891,vishnuka,anuraj,19,f,"99,kovil rd nallur",778894000,yes,EEE,10000
+3892,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778895000,yes,ECE,10000
+3893,naren,keethan,19,m,"7,amman rd valvettithurai",778896000,no ,CSE,18000
+3894,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778897000,no,MEC,15000
+3895,sofia,lued,20,f,museum road nallur jaffna,778898000,no ,bio_tech,19000
+3896,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778899000,yes,computer science,23000
+3897,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778900000,yes,EEE,19000
+3898,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778901000,yes,MEC,18000
+3899,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778902000,yes ,ECE,21000
+3900,naren,keethan,19,m,"7,amman rd valvettithurai",778903000,yes,EEE,22000
+3901,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778904000,yes,bio_tech,24000
+3902,ocenie,bandara,23,f,"garden lane, wallawatte north",778905000,yes,bio_tech,19000
+3903,roy,antony,23,m,"87, martin road colombo",778906000,yes,bio_tech,20000
+3904,nisha,thevathasan,20,f,"5,factory rd hatton",778907000,no ,ECE,180000
+3905,fatima,mohamad,19,f,"7,guest house road hattan",778908000,no,EEE,10000
+3906,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778909000,no,ECE,16000
+3907,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778910000,no,MEC,18000
+3908,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778911000,no ,bio_tech,20000
+3909,jananika,sivakuma,23,f,"87, martin road colombo",778912000,yes,computer science,16000
+3910,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778913000,yes,EEE,10000
+3911,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778914000,yes,ECE,10000
+3912,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778915000,no ,CSE,18000
+3913,naren,keethan,19,m,"7,amman rd valvettithurai",778916000,no,MEC,15000
+3914,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778917000,no ,bio_tech,19000
+3915,ocenie,bandara,23,f,"garden lane, wallawatte north",778918000,yes,computer science,23000
+3916,roy,antony,23,m,"87, martin road colombo",778919000,yes,EEE,19000
+3917,nisha,thevathasan,20,f,"5,factory rd hatton",778920000,yes,MEC,18000
+3918,fatima,mohamad,19,f,"7,guest house road hattan",778921000,yes ,ECE,21000
+3919,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778922000,yes,EEE,22000
+3920,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778923000,yes,bio_tech,24000
+3921,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778924000,yes,bio_tech,19000
+3922,jananika,sivakuma,23,f,"87, martin road colombo",778925000,yes,bio_tech,20000
+3923,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778926000,no ,ECE,180000
+3924,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778927000,no,EEE,10000
+3925,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778928000,no,ECE,16000
+3926,naren,keethan,19,m,"7,amman rd valvettithurai",778929000,no,MEC,18000
+3927,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778930000,no ,bio_tech,20000
+3928,ocenie,bandara,23,f,"garden lane, wallawatte north",778931000,yes,computer science,16000
+3929,roy,antony,23,m,"87, martin road colombo",778932000,yes,EEE,10000
+3930,nisha,thevathasan,20,f,"5,factory rd hatton",778933000,yes,ECE,10000
+3931,fatima,mohamad,19,f,"7,guest house road hattan",778934000,no ,CSE,18000
+3932,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778935000,no,MEC,15000
+3933,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778936000,no ,bio_tech,19000
+3934,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778937000,yes,computer science,23000
+3935,jananika,sivakuma,23,f,"87, martin road colombo",778938000,yes,EEE,19000
+3936,sinthoori,jegathees,23,f,clock tower rd jaffna,778939000,yes,MEC,18000
+3937,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778940000,yes ,ECE,21000
+3938,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",778941000,yes,EEE,22000
+3939,vasuki,kumaran,23,f,"123/8,magazine rd colombo",778942000,yes,bio_tech,24000
+3940,naren,keethan,19,m,"7,amman rd valvettithurai",778943000,yes,bio_tech,19000
+3941,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778944000,yes,bio_tech,20000
+3942,ocenie,bandara,23,f,"garden lane, wallawatte north",778945000,no ,ECE,180000
+3943,roy,antony,23,m,"87, martin road colombo",778946000,no,EEE,10000
+3944,nisha,thevathasan,20,f,"5,factory rd hatton",778947000,no,ECE,16000
+3945,fatima,mohamad,19,f,"7,guest house road hattan",778948000,no,MEC,18000
+3946,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778949000,no ,bio_tech,20000
+3947,nishakaran,suthekanthan,22,m,"56,river rd gampaha",778950000,yes,computer science,16000
+3948,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",778951000,yes,EEE,15000
+3949,jananika,sivakuma,23,f,"87, martin road colombo",778952000,yes,MEC,19000
+3950,thanusha,vettivel,21,f,"7,garden lane kopay ",778953000,no ,ECE,23000
+3951,sutharsan,jeyaseelan,20,m,matha kovil puthoor,778954000,no,EEE,19000
+3952,ocenie,bandara,23,f,"garden lane, wallawatte north",778955000,no ,bio_tech,18000
+3953,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,778956000,yes,bio_tech,21000
+3954,nesan,kumaravel,19,m,"34,kopay south kopay",778957000,yes,bio_tech,22000
+3955,daniel,george,20,m,urelu west,778958000,yes,ECE,24000
+3956,shruthy,arulnesan,23,f,pointpedro rd jaffna,778959000,yes ,EEE,19000
+3957,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778960000,yes,ECE,20000
+3958,iniyan,saravanan,20,m,45 kks rd jaffna,778961000,yes,MEC,180000
+3959,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",778962000,no,MEC,15000
+3960,iniyan,saravanan,20,m,45 kks rd jaffna,778963000,no ,bio_tech,19000
+3961,suvetha,karunakaran,19,f,"25,kopoay,jaffna",778964000,yes,computer science,23000
+3962,tharani,vanan,20,f,"56 palaly road,jaffna",778965000,yes,EEE,19000
+3963,gowshigan,sriskantharasa,22,m,matha kovil puthoor,778966000,yes,MEC,18000
+3964,suresh,jeyabalan,19,m,matha kovil puthoor,778967000,yes ,ECE,21000
+3965,jananika,sivakuma,23,f,"87, martin road colombo",778968000,yes,bio_tech,24000
+3966,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",778969000,yes,bio_tech,19000
+3967,roy,antony,23,m,"87, martin road colombo",778970000,yes,bio_tech,20000
+3968,nisha,thevathasan,20,f,"5,factory rd hatton",778971000,no ,ECE,180000
+3969,kethees,sriskantharasa,20,m,"87,valarmathyu rd,sankanai",778972000,no,EEE,10000
+3970,vishnuka,jeyabalan,19,F,"99,kovil rd nallur",778973000,no,ECE,16000
+3971,vasuki,sivakuma,23,F,"123/8,magazine rd colombo",778974000,no,MEC,18000
+3972,naren,arul,19,M,"7,amman rd valvettithurai",778975000,no ,bio_tech,20000
+3973,nilan,nithiyan,19,M,"13, temple road jaffna",778976000,yes,computer science,16000
+3974,priya,prabu,20,F,26 rakka road jaffna,778977000,yes,EEE,10000
+3975,geetha,kiritharan,20,F,23 rainbow colne japan,778978000,yes,ECE,10000
+3976,suvetha,manimaran,21,F,87 bridge road uk ,778979000,no ,CSE,18000
+3977,mathangi,hanojigan,21,F,54 palam road prediniya,778980000,no,MEC,15000
+3978,niruban,nilaxshan,21,M,28 ramanathan road Colombo,778981000,no ,bio_tech,19000
+3979,dilaxshan,pragash,20,M,34 union place Colombo,778982000,yes,EEE,10000
+3980,nirubana,amalan,20,F,58 union place trincomale,778983000,yes,ECE,10000
+3981,anne ,kumar,20,F,76 victoria lane jaffna,778984000,no,Bio_tech,18000
+3982,sankavi ,sivapalan,21,F,34 pillayar road thirunelveli,778985000,no,ECE,18000
+3983,quenny,nithiyan,22,F,47 mukurinipilayar road nallur,778986000,no,MEC,18000
+3984,vignesh ,shivamaren,23,M,48 gnasambantharroad rajapalayam,778987000,yes,EEE,10000
+3985,karunakaran,theeban,24,M,28 chedi street jaffna,778988000,no,ECE,18000
+3986,sathiyan ,manimaran,19,M,18 temple road jaffna,778989000,yes,Bio_tech,10000
+3987,jeevitha ,jeyakumar,20,F,98 rainbow road thanjavor,778990000,yes,MEC,10000
+3988,niththa ,sameer,22,F,41 vethanayagamroad Tamil Nadu,778991000,no,computer science,18000
+3989,naina ,parthiban,21,F,19 vithiyanamtha road vilipuram,778992000,no,MEC,18000
+3990,thevapriya,nanthakumar,22,F,38 thiruvasakar lane Chennai,778993000,yes,EEE,16000
+3991,thiviya,nivethan,20,F,43 brown road jaffna,778994000,no,ECE,10000
+3992,venuka,vimalam,21,F,45 brown road kandy ,778995000,yes,Bio_tech,19000
+3993,thendral,Kumaran,20,F,56 2nd Cross street kandy ,778996000,no,computer science,25000
+3994,vengadesh,kumar,22,M,21 3rd cross street jaffns ,778997000,yes,MEC,13000
+3995,nimalesh,theeban,23,M,12 1st cross street jaffna ,778998000,yes,EEE,13000
+3996,mohan ,Fernando,20,M,1 visuvanantha road vilipuram,778999000,no ,MEC,19000
+3997,vinoshajini,vinothan,20,F,34 pillayar road point Petro,779000000,no,ECE,12000
+3998,jeevitha,kiritharan,20,F,77 kandy road jaffna,779001000,yes,EEE,17000
+3999,vamshi,varatharaj,21,M,89 kandy road jaffna,779002000,yes,Bio_tech,15000
+4000,nirmala,kamaladhas,21,F,54 main street necombo,779003000,no,computer science,20000
+4001,manjula,vithiyan,22,F,32 peters lane Colombo 03,779004000,no,ECE,16000
+4002,anjala,raj,21,F,32 perera lane wellawata Colombo 17,779005000,no,MEC,19000
+4003,sharmila,jude,23,F,56 union place Colombo 02,779006000,no,EEE,18500
+4004,prasath ,vinay,20,M,34 main street trincomale,779007000,yes,Bio_tech,15000
+4005,nimalesh,parthiban,19,M,56 3rd cross street jaffna ,779008000,yes,ECE,13000
+4006,kulatheban,shivamaren,19,M,77 1st cross street jaffna ,779009000,yes,EEE,15000
+4007,mathivannan,sivathas,20,M,89 kandy road jaffna,779010000,no,Bio_tech,15000
+4008,shivanya ,ragu,21,F,89 rainbow colne mannar,779011000,yes,ECE,19000
+4009,preethi,raj,21,F,12 kovil road mannar ,779012000,no ,MEC,16300
+4010,mohan ,sivathevan,21,M,33 brown road galle,779013000,yes,computer science,14900
+4011,meera ,manimaran,20,F,23 2nd Cross street mount Lavinia,779014000,yes,ECE,15000
+4012,nirojana,niranjan,22,F,12 kandy road mannar,779015000,yes,EEE,16300
+4013,valarmathy,rajkumar,23,F,30 frectrick lane pandiuanthalvu ,779016000,yes,MEC,15500
+4014,cheran,manimuthu,21,M,77/3 colombuthrai road jaffna,779017000,yes,computer science,13900
+4015,heerthi,ravirajan,20,F,21/3 kandy road jaffna,779018000,no ,Bio_tech,16000
+4016,vasuky,ravirajan,20,F,99/2 brown road kandy ,779019000,no,ECE,12000
+4017,raviraj,thiyakaraj,19,M,33/4 nallur road jaffna,779020000,no,ECE,20000
+4018,jagan,gnakumar,19,M,76 colombuthursi road jaffna ,779021000,no,MEC,23000
+4019,naveen,rajkumar,20,M,43 chundikuli road jaffna ,779022000,yes,computer science,26000
+4020,sindhuja,sivaprakasam,20,F,33 vembadi road jaffna ,779023000,yes,Bio_tech,24000
+4021,keerthana,kiritharan,21,F,55 main street jaffna ,779024000,yes,EEE,21000
+4022,deepika,sivamathuran,22,F,39kalaivanan road thirunelveli ,779025000,yes,ECE,19000
+4023,kokul,thavneesan,22,M,12 kksroad jaffna,779026000,no,Bio_tech,16000
+4024,George,Fernando,21,M,45 kks road jaffna ,779027000,no,Bio_tech,16000
+4025,santhiya,saravanan,23,F,34 old park street jaffna ,779028000,yes,computer science,12000
+4026,niththiya,thinesh,19,F,67 old park old road jaffna,779029000,no,MEC,18000
+4027,ragul,ravikumar,21,M,89 old park road jaffna ,779030000,no ,EEE,19000
+4028,dinesh,santhakumar,21,M,34 koyathodam road jaffna,779031000,no ,MEC,21000
+4029,dilaxshika,pushpakumar,21,F,55 rasavinthotam jaffna ,779032000,no,MEC,20000
+4030,punitha,raviraj,21,F,33 maniyanthodam jaffna ,779033000,no,ECE,20000
+4031,kalaivanan,ravi,22,M,90 old park road jaffna ,779034000,no,EEE,21000
+4032,nilavan,arjun,23,M,44 old bridge road uk ,779035000,no,Bio_tech,19000
+4033,karthika ,maren,20,F,22 palali road jaffna ,779036000,no,computer science,16000
+4034,shainthavi,sarathkumar,20,F,98 point Petro road jaffna ,779037000,no,Bio_tech,16000
+4035,ragavi,ranjith,20,F,28 plalai road jaffna ,779038000,no,Bio_tech,15000
+4036,mathumai,malaravan,21,F,64 udayar road jaffna,779039000,no,computer science,19000
+4037,keerthanan,ragavan,20,M,23 pillayar road vavuniya ,779040000,no,EEE,18000
+4038,ramar ,jegathesh,20,M,34 mangulam road vavuniya,779041000,yes,ECE,18500
+4039,punith,rajkumar,20,M,33 puliyangulamroad vavuniya ,779042000,yes,MEC,16000
+4040,vaishnavi,dinesh,20,F,23 poiintpetro road jaffna ,779043000,yes,MEC,21000
+4041,kethajini,kirubakaran,20,F,34 odlpark road kandy k,779044000,yes,EEE,22000
+4042,christina,calastin,22,F,30 perera lane colombo 04,779045000,no,ECE,20000
+4043,bruntha,nilavan,23,F,22 union place Colombo 04,779046000,no,Bio_tech,22000
+4044,keerthana,yash,21,F,66 main street jaffna ,779047000,no,computer science,21500
+4045,brunthika,kumaran,21,F,13 maniyanthodam road galle ,779048000,yes,EEE,19000
+4046,maya,harish,22,F,13 galleface road Colombo 07,779049000,yes,MEC,15000
+4047,niththa,naveen,19,F,39 ood park road vavuniya,779050000,yes,ECE,16000
+4048,deepa,keshavan,23,F,13 temple road jaffna ,779051000,yes,MEC,17000
+4049,nivethana,nilan,21,F,14B temple road jaffna,779052000,no,MEC,15000
+4050,nikashana,noel,20,F,77 palali road jaffna,779053000,no,MEC,18000
+4051,velini,kumaravela,21,F,34 rainbow road mannar,779054000,no,MEC,17000
+4052,Gayathri,gunasheker,23,F,45 periya palam road mannar,779055000,yes,MEC,15000
+4053,valan,jude,21,M,3 3rd cross street mannar,779056000,yes,Bio_tech,16000
+4054,sharavanan,satheesh,20,M,33 old parkroad vavuniya,779057000,no,computer science,17000
+4055,nithiyan ,kumaran,23,M,55maim road  vavuniya ,779058000,no,EEE,16000
+4056,velavam,murugan,21,M,5 main street jaffna,779059000,yes,EEE,19000
+4057,lavan,laxshmanan,23,M,35 old park road jaffna ,779060000,yes,EEE,19000
+4058,rangayan,ramanathan,22,M,05 hospital road necombo,779061000,no,ECE,19000
+4059,harish,kalyan,20,M,13 old park road jaffna,779062000,yes,ECE,21000
+4060,nikilesh,nivethan,20,M,45 palali road point Petro,779063000,no,MEC,21000
+4061,rukshan,rajan,20,M,14 mangulam road vavuniya,779064000,yes,Bio_tech,16000
+4062,rishi,keshav,20,M,34 palali road jaffna,779065000,no,Bio_tech,16000
+4063,ragul,ravikumar,21,M,56 Stanley lane jaffns ,779066000,yes,computer science,19000
+4064,preethi ,premkumar,23,F,45 coljaffnahurai road jafna,779067000,yes,MEC,21000
+4065,jean,Prashanth,21,F,23 stanley road  jaffna ,779068000,no,MEC,21000
+4066,shiromy,chrishanthan,20,F,54 temple road jaffna,779069000,no,ECE,24000
+4067,shankavi ,ravi,22,F,34 2nd cross lane mannar ,779070000,yes,EEE,13000
+4068,dilakshi,hemanth,21,F,76 3rd cross street vavuniya,779071000,yes,ECE,15000
+4069,geerthika,velavan,20,F,54 palali road jaffna ,779072000,yes,MEC,15000
+4070,karsana,yogan,20,F,36 pillayar road thirunelveli ,779073000,no,MEC,16000
+4071,mounika,gnathas,21,F,45 rainbow lane necombo 04,779074000,no,computer science,19000
+4072,keerthana ,kiritharan,22,F,34 union place Colombo 04,779075000,no,computer science,16000
+4073,geetha,kiritharan,20,F,23 rainbow colne nagapadinam,779076000,no,Bio_tech,17000
+4074,suvetha,manimaran,21,F,87 bridge road uk ,779077000,yes,Bio_tech,15000
+4075,mathangi,hanojigan,21,F,54 palam road prediniya,779078000,yes,MEC,16000
+4076,niruban,nilaxshan,21,M,28 ramanathan road Colombo 19,779079000,yes,EEE,19000
+4077,dilaxshan,pragash,20,M,34 union place Colombo 14,779080000,yes,ECE,20000
+4078,geetha,kiritharan,20,F, 21 rainbow colne necombo 4,779081000,no,MEC,21000
+4079,suvetha,manimaran,21,F,87 bridge road uk ,779082000,no,Bio_tech,18000
+4080,mathangi,hanojigan,21,F,54 palam road prediniya,779083000,no,ECE,18000
+4081,niruban,nilaxshan,21,M,28 ramanathan road Colombo 4,779084000,no,MEC,18000
+4082,dilaxshan,pragash,20,M,34 union place Colombo 13,779085000,yes,EEE,10000
+4083,nirubana,amalan,20,F,58 union place trincomale,779086000,no,ECE,18000
+4084,anne ,kumar,20,F,76 victoria lane mathagal,779087000,no,Bio_tech,18000
+4085,sankavi ,sivapalan,21,F,34 pillayar road thirunelveli,779088000,no,ECE,18000
+4086,venuks,nithiyan,22,F,47 mukurinipilayar road nallur,779089000,no,MEC,18000
+4087,vithish ,shivamaren,23,M,48 gnasambantharroad rasavinthodam,779090000,yes,EEE,10000
+4088,karnan,theeban,24,M,28 chedi street jaffna,779091000,no,ECE,18000
+4089,shakthi,manimaran,19,M,18 temple road mannar,779092000,yes,Bio_tech,10000
+4090,malathi,jeyakumar,20,F,98 rainbow road thanjavor,779093000,yes,MEC,10000
+4091,nithya,sameer,22,F,41 vethanayagamroad kanjipuram,779094000,no,computer science,18000
+4092,nirmala,parthiban,21,F,19 vithiyanamtha road vilipuram,779095000,no,MEC,18000
+4093,thevasagi,nanthakumar,22,F,38 thiruvasakar lane tn ,779096000,yes,EEE,16000
+4094,divya,nivethan,20,F,43 brown road mathgal,779097000,no,ECE,10000
+4095,nivya,vimalam,21,F,45 brown road galle,779098000,yes,Bio_tech,19000
+4096,thiviya,gunaratnam,22,F,28 brown riad trincomale,779099000,no,computer science,25000
+4097,kiritharan,velavan,20,M,37 chedi street jaffna,779100000,yes,MEC,13000
+4098,keerthini,harun ,21,F,56 maguvantha mawatha Colombo 4,779101000,yes,EEE,13000
+4099,nikshala,jesudhas,20,F,54 palam road prediniya,779102000,no ,MEC,19000
+4100,fereena,kadhar,20,F,28 ramanathan road Colombo 19,779103000,no,ECE,12000
+4101,nimshiya,mariyanesan,20,F,34 union place Colombo 14,779104000,yes,EEE,17000
+4102,nikilesh,paramanantham,21,M, 21 rainbow colne necombo 4,779105000,yes,ECE,25000
+4103,senthury,jagan,20,F,87 bridge road uk ,779106000,yes,EEE,20000
+4104,rishab,arora,21,M,54 palam road prediniya,779107000,no,ECE,21000
+4105,karan ,nishanth,22,M,28 ramanathan road Colombo 4,779108000,no,MEC,18000
+4106,tharun,aravinthan,20,M,34 union place Colombo 13,779109000,no,Bio_tech,18000
+4107,varum,vaseekaran,21,M,58 union place trincomale,779110000,no,ECE,18000
+4108,karini,kirithsran,20,F,76 victoria lane mathagal,779111000,yes,MEC,10000
+4109,yathavi,kumaran ,20,F,34 pillayar road thirunelveli,779112000,no,EEE,18000
+4110,chainthavi ,nirmalan,22,F,47 mukurinipilayar road nallur,779113000,no,ECE,18000
+4111,kavin,theeban,23,M,48 gnasambantharroad rasavinthodam,779114000,no,Bio_tech,18000
+4112,ameer,kumaran,21,M,28 chedi street jaffna,779115000,no,ECE,18000
+4113,shanthanu,pakiyatsj ,21,M,18 temple road mannar,779116000,yes,MEC,10000
+4114,sulokan,thanaraj,20,M,98 rainbow road thanjavor,779117000,no,EEE,18000
+4115,vaishnavi,kirubakaran,23,F,41 vethanayagamroad kanjipuram,779118000,yes,ECE,10000
+4116,yazhini,yugandhar,22,F,19 vithiyanamtha road vilipuram,779119000,yes,Bio_tech,10000
+4117,fatima,isbal,20,F,38 thiruvasakar lane tn ,779120000,no,MEC,18000
+4118,abdhul,kassim,22,M,43 brown road mathgal,779121000,no,computer science,18000
+4119,sindhuja,kasi,23,F,45 brown road galle,779122000,yes,MEC,16000
+4120,amrutha,varshini,22,F,28 brown riad trincomale,779123000,no,EEE,10000
+4121,latha,pragash,20,F,37 chedi street jaffna,779124000,yes,ECE,19000
+4122,prakash,srinivas,22,M,56 maguvantha mawatha Colombo 4,779125000,no,Bio_tech,25000
+4123,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779126000,yes,computer science,13000
+4124,tharani,vanan,20,f,"56 palaly road,jaffna",779127000,yes,MEC,13000
+4125,gowshigan,sriskantharasa,22,m,matha kovil puthoor,779128000,no ,EEE,19000
+4126,suresh,jeyabalan,19,m,matha kovil puthoor,779129000,no,MEC,12000
+4127,jananika,sivakuma,23,f,"87, martin road colombo",779130000,yes,ECE,17000
+4128,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",779131000,no ,EEE,1234500
+4129,roy,antony,23,m,"87, martin road colombo",779132000,yes,EEE,10000
+4130,nisha,thevathasan,20,f,"5,factory rd hatton",779133000,yes,ECE,10000
+4131,kethees,ilayakumar,20,m,"87,valarmathyu rd,sankanai",779134000,no ,CSE,18000
+4132,vishnuka,anuraj,19,f,"99,kovil rd nallur",779135000,no,MEC,15000
+4133,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779136000,no ,bio_tech,19000
+4134,naren,keethan,19,m,"7,amman rd valvettithurai",779137000,yes,computer science,23000
+4135,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779138000,yes,EEE,19000
+4136,sofia,lued,20,f,museum road nallur jaffna,779139000,yes,MEC,18000
+4137,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,779140000,yes ,ECE,21000
+4138,nesan,kumaravel,19,m,"34,kopay south kopay",779141000,yes,EEE,22000
+4139,daniel,george,20,m,urelu west,779142000,yes,bio_tech,24000
+4140,shruthy,arulnesan,23,f,pointpedro rd jaffna,779143000,yes,bio_tech,19000
+4141,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779144000,yes,bio_tech,20000
+4142,iniyan,saravanan,20,m,45 kks rd jaffna,779145000,no ,ECE,180000
+4143,salomia,jude,19,f,sivan amman rd thirunelvely jaffna,779146000,no,EEE,10000
+4144,tharanika,rajeevan,19,f,ward 4 madaitivu,779147000,no,ECE,16000
+4145,piragash,jegatheeswaran,23,m,hospitol road kandy,779148000,no,MEC,18000
+4146,gowshigan,sriskantharasa,22,m,matha kovil puthoor,779149000,no ,bio_tech,20000
+4147,jananika,sivakuma,23,f,"87, martin road colombo",779150000,yes,computer science,16000
+4148,roy,antony,23,m,"87, martin road colombo",779151000,yes,EEE,10000
+4149,nisha,thevathasan,20,f,"5,factory rd hatton",779152000,yes,ECE,10000
+4150,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779153000,no ,CSE,18000
+4151,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779154000,no,MEC,15000
+4152,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779155000,no ,bio_tech,19000
+4153,nizar,aman,19,m,light house rd ambanthotta,779156000,yes,computer science,23000
+4154,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",779157000,yes,EEE,19000
+4155,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779158000,yes,MEC,18000
+4156,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779159000,yes ,ECE,21000
+4157,imana ,hasim,19,f,"12,station lane, moothoor south mothoor",779160000,yes,EEE,22000
+4158,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779161000,yes,bio_tech,24000
+4159,naren,keethan,19,m,"7,amman rd valvettithurai",779162000,yes,bio_tech,19000
+4160,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779163000,yes,bio_tech,20000
+4161,ocenie,bandara,23,f,"garden lane, wallawatte north",779164000,no ,ECE,180000
+4162,roy,antony,23,m,"87, martin road colombo",779165000,no,EEE,10000
+4163,nisha,thevathasan,20,f,"5,factory rd hatton",779166000,no,ECE,16000
+4164,fatima,mohamad,19,f,"7,guest house road hattan",779167000,no,MEC,18000
+4165,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779168000,no ,bio_tech,20000
+4166,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779169000,yes,computer science,16000
+4167,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779170000,yes,EEE,10000
+4168,jananika,sivakuma,23,f,"87, martin road colombo",779171000,yes,ECE,10000
+4169,deepika ,niranjan,19,f,mattakalappu,779172000,no ,CSE,18000
+4170,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779173000,no,MEC,15000
+4171,naren,keethan,19,m,"7,amman rd valvettithurai",779174000,no ,bio_tech,19000
+4172,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779175000,yes,computer science,23000
+4173,vinoshi,vimal,19,f,"123/8,magazine rd colombo",779176000,yes,EEE,19000
+4174,keerthigan,sankar,19,m,mullaitivu,779177000,yes,MEC,18000
+4175,kethees,ilayakumar,21,m,"87,valarmathyu rd,sankanai",779178000,yes ,ECE,21000
+4176,vishnuka,anuraj,19,f,"99,kovil rd nallur",779179000,yes,EEE,22000
+4177,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779180000,yes,bio_tech,24000
+4178,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779181000,yes,bio_tech,19000
+4179,pavitha,gunasingam,20,f,"45,kks road jaffna",779182000,yes,bio_tech,20000
+4180,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",779183000,no ,ECE,180000
+4181,thivakaran,kumaravel,21,m,"11,palaly rd jaffna",779184000,no,EEE,10000
+4182,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779185000,no,ECE,16000
+4183,naren,keethan,19,m,"7,amman rd valvettithurai",779186000,no,MEC,18000
+4184,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779187000,no ,bio_tech,20000
+4185,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779188000,yes,computer science,16000
+4186,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779189000,yes,EEE,10000
+4187,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779190000,yes,ECE,10000
+4188,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779191000,no ,CSE,18000
+4189,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779192000,no,MEC,15000
+4190,kethees,ilayakumar,20,m,"87,valarmathyu rd,sankanai",779193000,no ,bio_tech,19000
+4191,vishnuka,anuraj,19,f,"99,kovil rd nallur",779194000,yes,computer science,23000
+4192,mayooriga,sekar,19,f,101 benthotta colombo,779195000,yes,EEE,19000
+4193,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779196000,yes,MEC,18000
+4194,naren,keethan,19,m,"7,amman rd valvettithurai",779197000,yes ,ECE,21000
+4195,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779198000,yes,EEE,22000
+4196,ramiya,ilankeethan,20,f,mannar,779199000,yes,bio_tech,24000
+4197,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",779200000,yes,bio_tech,19000
+4198,mithusha,kgathasan,19,f,"77,puthoo south",779201000,yes,bio_tech,20000
+4199,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779202000,no ,ECE,180000
+4200,naren,keethan,19,m,"7,amman rd valvettithurai",779203000,no,EEE,10000
+4201,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779204000,no,ECE,16000
+4202,mathuran,gnanavel,21,m,stanley road jaffna,779205000,no,MEC,18000
+4203,ayesha,lalith,20,f,"87, martin road colombo",779206000,no ,bio_tech,20000
+4204,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779207000,yes,computer science,16000
+4205,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779208000,yes,EEE,10000
+4206,naren,keethan,19,m,"7,amman rd valvettithurai",779209000,yes,ECE,10000
+4207,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779210000,no ,CSE,18000
+4208,vinoth,sivalingam,22,m,kantharmadam jaffna,779211000,no,MEC,15000
+4209,jananika,sivakuma,23,f,"87, martin road colombo",779212000,no ,bio_tech,19000
+4210,roy,antony,23,m,"87, martin road colombo",779213000,yes,computer science,23000
+4211,nisha,thevathasan,20,f,"5,factory rd hatton",779214000,yes,EEE,19000
+4212,ayesha,lalith,20,f,"87, martin road colombo",779215000,yes,MEC,18000
+4213,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779216000,yes ,ECE,21000
+4214,gabinaya,robert,20,f,"87, martin road colombo",779217000,yes,EEE,22000
+4215,ayesha,lalith,20,f,"87, martin road colombo",779218000,yes,bio_tech,24000
+4216,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779219000,yes,bio_tech,19000
+4217,nesan,kumaravel,19,m,"34,kopay south kopay",779220000,yes,bio_tech,20000
+4218,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779221000,no ,ECE,180000
+4219,vijaya,vikneswaran,19,f,matha kovil puthoor,779222000,no,EEE,10000
+4220,nesan,kumaravel,19,m,"34,kopay south kopay",779223000,no,ECE,16000
+4221,roy,antony,23,m,"87, martin road colombo",779224000,no,MEC,18000
+4222,nisha,thevathasan,20,f,"5,factory rd hatton",779225000,no ,bio_tech,20000
+4223,nesan,kumaravel,19,m,"34,kopay south kopay",779226000,yes,computer science,16000
+4224,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779227000,yes,EEE,10000
+4225,ayesha,lalith,20,f,"87, martin road colombo",779228000,yes,ECE,10000
+4226,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779229000,no ,CSE,18000
+4227,nesan,kumaravel,19,m,"34,kopay south kopay",779230000,no,MEC,15000
+4228,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",779231000,no ,bio_tech,19000
+4229,ayesha,lalith,20,f,"87, martin road colombo",779232000,yes,computer science,23000
+4230,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779233000,yes,EEE,19000
+4231,kethees,ilayakumar,20,m,"87,valarmathyu rd,sankanai",779234000,yes,MEC,18000
+4232,vishnuka,anuraj,19,f,"99,kovil rd nallur",779235000,yes ,ECE,21000
+4233,vishnuka,anuraj,19,f,"99,kovil rd nallur",779236000,yes,EEE,22000
+4234,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779237000,yes,bio_tech,24000
+4235,naren,keethan,19,m,"7,amman rd valvettithurai",779238000,yes,bio_tech,19000
+4236,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779239000,yes,bio_tech,20000
+4237,ayesha,lalith,20,f,"87, martin road colombo",779240000,no ,ECE,180000
+4238,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779241000,no,EEE,10000
+4239,roshan,silva,20,m,"123/8,magazine rd colombo",779242000,no,ECE,16000
+4240,vishnuka,anuraj,19,f,"99,kovil rd nallur",779243000,no,MEC,18000
+4241,roy,antony,23,m,"87, martin road colombo",779244000,no ,bio_tech,20000
+4242,nisha,thevathasan,20,f,"5,factory rd hatton",779245000,yes,computer science,16000
+4243,vishnuka,anuraj,19,f,"99,kovil rd nallur",779246000,yes,EEE,10000
+4244,kethees,ilayakumar,23,m,"87,valarmathyu rd,sankanai",779247000,yes,ECE,10000
+4245,vishnuka,anuraj,19,f,"99,kovil rd nallur",779248000,no ,CSE,18000
+4246,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779249000,no,MEC,15000
+4247,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779250000,no ,bio_tech,19000
+4248,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779251000,yes,computer science,23000
+4249,naren,keethan,19,m,"7,amman rd valvettithurai",779252000,yes,EEE,19000
+4250,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779253000,yes,MEC,18000
+4251,faheed,seth nisar,23,m,lakehouse rd trinco,779254000,yes ,ECE,21000
+4252,kajan,srikanth,19,m,77 stanley road jaffna,779255000,yes,EEE,22000
+4253,thuvaraka,ragunathan,21,f,irupalai south jaffna,779256000,yes,bio_tech,24000
+4254,vinosha,thiyagarajan,21,f,87 kantharmadam jaffna,779257000,yes,bio_tech,19000
+4255,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",779258000,yes,bio_tech,20000
+4256,vishaka,ranjith,21,f,"45, sivan kovilady thirunelvely jaffna",779259000,no ,ECE,180000
+4257,ilakiya,maraivanan,22,f,"richard lane,mannar",779260000,no,EEE,10000
+4258,magesh,rohana,22,m,"56,station garden lane colombo",779261000,no,ECE,16000
+4259,kethees,ilayakumar,20,m,"87,valarmathyu rd,sankanai",779262000,no,MEC,18000
+4260,vishnuka,anuraj,19,f,"99,kovil rd nallur",779263000,no ,bio_tech,20000
+4261,ibrahim,ahmad,19,m,"taj lane,kalutura",779264000,yes,computer science,16000
+4262,niveta,thiruchelvam,19,f,"thivaha road,kokkuvil south kokuvil",779265000,yes,EEE,10000
+4263,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779266000,yes,ECE,10000
+4264,naren,keethan,19,m,"7,amman rd valvettithurai",779267000,no ,CSE,18000
+4265,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779268000,no,MEC,15000
+4266,roy,antony,23,m,"87, martin road colombo",779269000,no ,bio_tech,19000
+4267,nisha,thevathasan,20,f,"5,factory rd hatton",779270000,yes,computer science,23000
+4268,vishnuka,anuraj,19,f,"99,kovil rd nallur",779271000,yes,EEE,19000
+4269,rizhana,abdulla,19,f,"87, martin road colombo",779272000,yes,MEC,18000
+4270,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779273000,yes ,ECE,21000
+4271,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779274000,yes,EEE,22000
+4272,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779275000,yes,bio_tech,24000
+4273,naren,keethan,19,m,"7,amman rd valvettithurai",779276000,yes,bio_tech,19000
+4274,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779277000,yes,bio_tech,20000
+4275,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779278000,no ,ECE,180000
+4276,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779279000,no,EEE,10000
+4277,roy,antony,23,m,"87, martin road colombo",779280000,no,ECE,16000
+4278,nisha,thevathasan,20,f,"5,factory rd hatton",779281000,no,MEC,18000
+4279,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779282000,no ,bio_tech,20000
+4280,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779283000,yes,computer science,16000
+4281,roy,antony,23,m,"87, martin road colombo",779284000,yes,EEE,10000
+4282,nisha,thevathasan,20,f,"5,factory rd hatton",779285000,yes,ECE,10000
+4283,vishnuka,anuraj,19,f,"99,kovil rd nallur",779286000,no ,CSE,18000
+4284,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779287000,no,MEC,15000
+4285,ayesha,lalith,20,f,"87, martin road colombo",779288000,no ,bio_tech,19000
+4286,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779289000,yes,computer science,23000
+4287,roy,antony,23,m,"87, martin road colombo",779290000,yes,EEE,19000
+4288,nisha,thevathasan,20,f,"5,factory rd hatton",779291000,yes,MEC,18000
+4289,ayesha,lalith,20,f,"87, martin road colombo",779292000,yes ,ECE,21000
+4290,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779293000,yes,EEE,22000
+4291,kethees,ilayakumar,22,m,"87,valarmathyu rd,sankanai",779294000,yes,bio_tech,24000
+4292,vishnuka,anuraj,19,f,"99,kovil rd nallur",779295000,yes,bio_tech,19000
+4293,ayesha,lalith,20,f,"87, martin road colombo",779296000,yes,bio_tech,20000
+4294,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779297000,no ,ECE,180000
+4295,ayesha,lalith,20,f,"87, martin road colombo",779298000,no,EEE,10000
+4296,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779299000,no,ECE,16000
+4297,jananika,sivakuma,23,f,"87, martin road colombo",779300000,no,MEC,18000
+4298,arabi,raveenthiran,22,f,kondavil south jaffna,779301000,no ,bio_tech,20000
+4299,roy,antony,23,m,"87, martin road colombo",779302000,yes,computer science,16000
+4300,nisha,thevathasan,20,f,"5,factory rd hatton",779303000,yes,EEE,10000
+4301,aruran,ravindran,22,m,mattara,779304000,yes,ECE,10000
+4302,gabinaya,robert,22,f,"123/8,magazine rd colombo",779305000,no ,CSE,18000
+4303,mishalini,kumar,19,f,peradeniya kandy,779306000,no,MEC,15000
+4304,vijitha,mahendran,21,f,jaffna,779307000,no ,bio_tech,19000
+4305,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779308000,yes,computer science,23000
+4306,naren,keethan,19,m,"7,amman rd valvettithurai",779309000,yes,EEE,19000
+4307,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779310000,yes,MEC,18000
+4308,ayesha,lalith,20,f,"87, martin road colombo",779311000,yes ,ECE,21000
+4309,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779312000,yes,EEE,22000
+4310,sutharsan,surenthiran,19,f,kayts,779313000,yes,bio_tech,24000
+4311,roy,antony,23,m,"87, martin road colombo",779314000,yes,bio_tech,19000
+4312,nisha,thevathasan,20,f,"5,factory rd hatton",779315000,yes,bio_tech,20000
+4313,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779316000,no ,ECE,180000
+4314,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779317000,no,EEE,10000
+4315,roy,antony,23,m,"87, martin road colombo",779318000,no,ECE,16000
+4316,nisha,thevathasan,20,f,"5,factory rd hatton",779319000,no,MEC,18000
+4317,ayesha,lalith,20,f,"87, martin road colombo",779320000,no ,bio_tech,20000
+4318,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779321000,yes,computer science,16000
+4319,kajeevan,ranjith,21,m,chundukuli jaffna,779322000,yes,EEE,10000
+4320,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",779323000,yes,ECE,10000
+4321,ayesha,lalith,20,f,"87, martin road colombo",779324000,no ,CSE,18000
+4322,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779325000,no,MEC,15000
+4323,iswini,suthan,21,f,manipay,779326000,no ,bio_tech,19000
+4324,kethees,ilayakumar,23,m,"87,valarmathyu rd,sankanai",779327000,yes,computer science,23000
+4325,vishnuka,anuraj,19,f,"99,kovil rd nallur",779328000,yes,EEE,19000
+4326,ayesha,lalith,20,f,"87, martin road colombo",779329000,yes,MEC,18000
+4327,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779330000,yes ,ECE,21000
+4328,ayesha,lalith,20,f,"87, martin road colombo",779331000,yes,EEE,22000
+4329,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779332000,yes,bio_tech,24000
+4330,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779333000,yes,bio_tech,19000
+4331,nesan,kumaravel,19,m,"34,kopay south kopay",779334000,yes,bio_tech,20000
+4332,daniel,george,20,m,urelu west,779335000,no ,ECE,180000
+4333,shruthy,arulnesan,23,f,pointpedro rd jaffna,779336000,no,EEE,10000
+4334,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779337000,no,ECE,16000
+4335,iniyan,saravanan,20,m,45 kks rd jaffna,779338000,no,MEC,18000
+4336,aaruja,saravanan,20,f,paaly rd jaffna,779339000,no ,bio_tech,20000
+4337,jananika,sivakuma,23,f,"87, martin road colombo",779340000,yes,computer science,16000
+4338,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779341000,yes,EEE,10000
+4339,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779342000,yes,ECE,10000
+4340,nesan,kumaravel,19,m,"34,kopay south kopay",779343000,no ,CSE,18000
+4341,daniel,george,20,m,urelu west,779344000,no,MEC,15000
+4342,shruthy,arulnesan,23,f,pointpedro rd jaffna,779345000,no ,bio_tech,19000
+4343,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779346000,yes,computer science,23000
+4344,iniyan,saravanan,20,m,45 kks rd jaffna,779347000,yes,EEE,19000
+4345,pranavi ,rajeswaran,20,,manipay,779348000,yes,MEC,18000
+4346,varshan,arul,23,m,"67,thurkkai amman rd,kenniya trinco",779349000,yes ,ECE,21000
+4347,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779350000,yes,EEE,22000
+4348,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779351000,yes,bio_tech,24000
+4349,kethees,ilayakumar,23,m,"87,valarmathyu rd,sankanai",779352000,yes,bio_tech,19000
+4350,vishnuka,anuraj,19,f,"99,kovil rd nallur",779353000,yes,bio_tech,20000
+4351,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779354000,no ,ECE,180000
+4352,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779355000,no,EEE,10000
+4353,jeevan,bandaranayake,19,m,"123/8,magazine rd colombo",779356000,no,ECE,16000
+4354,ashviny,chandran,20,f,"67,irupalai rd jaffna",779357000,no,MEC,18000
+4355,zahar,hasim,22,m,hambanthotta south hambanthotta,779358000,no ,bio_tech,20000
+4356,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779359000,yes,computer science,16000
+4357,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779360000,yes,EEE,10000
+4358,roy,antony,23,m,"87, martin road colombo",779361000,yes,ECE,10000
+4359,nisha,thevathasan,20,f,"5,factory rd hatton",779362000,no ,CSE,18000
+4360,thuvarakan,mathan,21,m,"87,valarmathyu rd,sankanai",779363000,no,MEC,15000
+4361,jeyan,rajasingam,21,m,"99,kovil rd nallur",779364000,no ,bio_tech,19000
+4362,abishanth,baskaran,21,f,101 thattatheru rd nallur,779365000,yes,computer science,23000
+4363,kethees,ilayakumar,0,m,"87,valarmathyu rd,sankanai",779366000,yes,EEE,19000
+4364,vishnuka,anuraj,19,f,"99,kovil rd nallur",779367000,yes,MEC,18000
+4365,manasi,umakaran,23,f,chunnaham,779368000,yes ,ECE,21000
+4366,nesan,kumaravel,19,m,"34,kopay south kopay",779369000,yes,EEE,22000
+4367,daniel,george,20,m,urelu west,779370000,yes,bio_tech,24000
+4368,shruthy,arulnesan,23,f,pointpedro rd jaffna,779371000,yes,bio_tech,19000
+4369,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779372000,yes,bio_tech,20000
+4370,iniyan,saravanan,20,m,45 kks rd jaffna,779373000,no ,ECE,180000
+4371,ayesha,lalith,20,f,"87, martin road colombo",779374000,no,EEE,10000
+4372,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779375000,no,ECE,16000
+4373,ayesha,lalith,20,f,"87, martin road colombo",779376000,no,MEC,18000
+4374,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779377000,no ,bio_tech,20000
+4375,kethees,ilayakumar,23,m,"87,valarmathyu rd,sankanai",779378000,yes,computer science,16000
+4376,vishnuka,anuraj,19,f,"99,kovil rd nallur",779379000,yes,EEE,10000
+4377,ayesha,lalith,20,f,"87, martin road colombo",779380000,yes,ECE,10000
+4378,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779381000,no ,CSE,18000
+4379,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779382000,no,MEC,15000
+4380,naren,keethan,19,m,"7,amman rd valvettithurai",779383000,no ,bio_tech,19000
+4381,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779384000,yes,computer science,23000
+4382,ayesha,lalith,20,f,"87, martin road colombo",779385000,yes,EEE,19000
+4383,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779386000,yes,MEC,18000
+4384,priya ,ramesh,22,f,kayts,779387000,yes ,ECE,21000
+4385,suvetha,karunakaran,19,f,"25,kopoay,jaffna",779388000,yes,EEE,22000
+4386,nishakaran,suthekanthan,22,m,"56,river rd gampaha",779389000,yes,bio_tech,24000
+4387,anithan,arulraj,22,m,"87,thuvarakai vasa, nallur",779390000,yes,bio_tech,19000
+4388,kethees,ilayakumar,22,m,"87,valarmathyu rd,sankanai",779391000,yes,bio_tech,20000
+4389,vishnuka,anuraj,19,f,"99,kovil rd nallur",779392000,no ,ECE,180000
+4390,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779393000,no,EEE,10000
+4391,naren,keethan,19,m,"7,amman rd valvettithurai",779394000,no,ECE,16000
+4392,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779395000,no,MEC,18000
+4393,ayesha,lalith,20,f,"87, martin road colombo",779396000,no ,bio_tech,20000
+4394,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779397000,yes,computer science,16000
+4395,ayesha,lalith,20,f,"87, martin road colombo",779398000,yes,EEE,10000
+4396,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779399000,yes,ECE,10000
+4397,ayesha,lalith,20,f,"87, martin road colombo",779400000,no ,CSE,18000
+4398,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779401000,no,MEC,15000
+4399,jananika,sivakuma,23,f,"87, martin road colombo",779402000,no ,bio_tech,19000
+4400,piriyan,gnanasekaran,21,m,kankesanthurai jaffna,779403000,yes,computer science,23000
+4401,nesan,kumaravel,19,m,"34,kopay south kopay",779404000,yes,EEE,19000
+4402,daniel,george,20,m,urelu west,779405000,yes,MEC,18000
+4403,shruthy,arulnesan,23,f,pointpedro rd jaffna,779406000,yes ,ECE,21000
+4404,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779407000,yes,EEE,22000
+4405,iniyan,saravanan,20,m,45 kks rd jaffna,779408000,yes,bio_tech,24000
+4406,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779409000,yes,bio_tech,19000
+4407,vasuki,kumaran,23,f,"123/8,magazine rd colombo",779410000,yes,bio_tech,20000
+4408,naren,keethan,19,m,"7,amman rd valvettithurai",779411000,no ,ECE,180000
+4409,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779412000,no,EEE,10000
+4410,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779413000,no,ECE,16000
+4411,kethees,ilayakumar,21,m,"87,valarmathyu rd,sankanai",779414000,no,MEC,18000
+4412,vishnuka,anuraj,19,f,"99,kovil rd nallur",779415000,no ,bio_tech,20000
+4413,roy,antony,23,m,"87, martin road colombo",779416000,yes,computer science,16000
+4414,nisha,thevathasan,20,f,"5,factory rd hatton",779417000,yes,EEE,10000
+4415,ayesha,lalith,20,f,"87, martin road colombo",779418000,yes,ECE,10000
+4416,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779419000,no ,CSE,18000
+4417,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779420000,no,MEC,15000
+4418,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779421000,no ,bio_tech,19000
+4419,nesan,kumaravel,19,m,"34,kopay south kopay",779422000,yes,computer science,23000
+4420,daniel,george,20,m,urelu west,779423000,yes,EEE,19000
+4421,shruthy,arulnesan,23,f,pointpedro rd jaffna,779424000,yes,MEC,18000
+4422,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779425000,yes ,ECE,21000
+4423,iniyan,saravanan,20,m,45 kks rd jaffna,779426000,yes,EEE,22000
+4424,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,779427000,yes,bio_tech,24000
+4425,nesan,kumaravel,19,m,"34,kopay south kopay",779428000,yes,bio_tech,19000
+4426,daniel,george,20,m,urelu west,779429000,yes,bio_tech,20000
+4427,shruthy,arulnesan,23,f,pointpedro rd jaffna,779430000,no ,ECE,180000
+4428,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779431000,no,EEE,10000
+4429,iniyan,saravanan,20,m,45 kks rd jaffna,779432000,no,ECE,16000
+4430,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,779433000,no,MEC,18000
+4431,nesan,kumaravel,19,m,"34,kopay south kopay",779434000,no ,bio_tech,20000
+4432,daniel,george,20,m,urelu west,779435000,yes,computer science,16000
+4433,shruthy,arulnesan,23,f,pointpedro rd jaffna,779436000,yes,EEE,10000
+4434,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779437000,yes,ECE,10000
+4435,iniyan,saravanan,20,m,45 kks rd jaffna,779438000,no ,CSE,18000
+4436,ayesha,lalith,20,f,"87, martin road colombo",779439000,no,MEC,15000
+4437,mathushayini,srikanthan,21,f,"21,church road,wellawatte",779440000,no ,bio_tech,19000
+4438,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779441000,yes,computer science,23000
+4439,nesan,kumaravel,19,m,"34,kopay south kopay",779442000,yes,EEE,19000
+4440,daniel,george,20,m,urelu west,779443000,yes,MEC,18000
+4441,shruthy,arulnesan,23,f,pointpedro rd jaffna,779444000,yes ,ECE,21000
+4442,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779445000,yes,EEE,22000
+4443,iniyan,saravanan,20,m,45 kks rd jaffna,779446000,yes,bio_tech,24000
+4444,niruthika,gnanasekar,20,f,vaiman rd nallur jaffna ,779447000,yes,bio_tech,19000
+4445,nesan,kumaravel,19,m,"34,kopay south kopay",779448000,yes,bio_tech,20000
+4446,daniel,george,20,m,urelu west,779449000,no ,ECE,180000
+4447,shruthy,arulnesan,23,f,pointpedro rd jaffna,779450000,no,EEE,10000
+4448,lakshika,thevathasan,21,f,"89,aariya kulam rd jaffna",779451000,no,ECE,16000
+4449,iniyan,saravanan,20,m,45 kks rd jaffna,779452000,no,MEC,18000
+4450,naren,keethan,19,m,"7,amman rd valvettithurai",779453000,no ,bio_tech,20000
+4451,sutharsan,jeyaseelan,20,m,matha kovil puthoor,779454000,yes,computer science,16000
+4452,faheed,seth nisar,23,m,lakehouse rd trinco,779455000,yes,EEE,19000
